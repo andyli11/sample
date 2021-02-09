@@ -1,7 +1,11 @@
 body{
-    background:yellow;
+   background:pink;
 }
 
 h1{
-    background:purple;
+   background:purple;
+}
+
+h3{
+   font-size: large;
 }
